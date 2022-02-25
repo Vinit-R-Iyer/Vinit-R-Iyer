@@ -33,6 +33,7 @@ I like to keep everything easy to read and make sure everything is in an easy to
 <br>
 <br>
 <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img src = "https://img.shields.io/badge/PowerBI-FFC000?style=for-the-badge&logo=PowerBI&logoColor=white" />
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
