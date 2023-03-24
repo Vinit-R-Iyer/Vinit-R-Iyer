@@ -14,7 +14,7 @@
 
 I am Vinit and here for sharing my projects and being a part of the community to help and be helped.
 
-I am a student currently pursuing a triple majors Bachelor degree in Physical Sciences (Physics, Mathematics and Computer Science). I am an aspiring Data Analyst who loves to code. I dabble a bit in Software development.
+I am a student currently pursuing a Master in Information Technology and Master in Information Technology Management from the University of Sydney. I am an aspiring Data Analyst who loves to code. I dabble a bit in Software development.
 
 I like to keep everything easy to read and make sure everything is in an easy to understand and readable format.
 
