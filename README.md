@@ -12,11 +12,18 @@
 <br>
 <br>
 
-I am Vinit and here for sharing my projects and being a part of the community to help and be helped.
+Hey there!
+Welcome to my page! 
 
-I am a student currently pursuing a Master in Information Technology and Master in Information Technology Management from the University of Sydney. I am an aspiring Data Analyst who loves to code. I dabble a bit in Software development.
+I am Vinit, a Data Engineer, Data Analyst, and Project Manager.
+I am pursuing my Master in Information Technology specializing in Data Analytics and Management and another Master in Information Technology Management specializing in Project Management.
 
-I like to keep everything easy to read and make sure everything is in an easy to understand and readable format.
+Here you will find all of my projects, assignments, and study materials. I hope you like it! 
+If you want to connect with me personally, please do not hesitate to ping me on LinkedIn.
+
+Thanks for giving this a read, may all success be with you. :)
+
+See ya!
 
 **LANGUAGES**
 <br>
@@ -29,7 +36,7 @@ I like to keep everything easy to read and make sure everything is in an easy to
 <br>
 <br>
 
-**DBMS Softwares**
+**DBMS Software**
 <br>
 <br>
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
