@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vinit-r-iyer/" rel="nofollow">
-  <img align="left" alt="Vinit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  <img align="left" alt="Vinit's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" style="max-width: 100%;">
 </a>
 
 <br>
