@@ -44,6 +44,14 @@ See ya!
 <br>
 <br>
 
+**Cloud Platforms**
+<br>
+<br>
+<img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<br>
+<br>
+
 **TOOLS & IDEs**
 <br>
 <br>
