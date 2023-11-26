@@ -25,7 +25,7 @@ Thanks for giving this a read, may all success be with you. :)
 
 See ya!
 
-**LANGUAGES**
+**Programming Languages**
 <br>
 <br>
 <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -52,7 +52,7 @@ See ya!
 <br>
 <br>
 
-**TOOLS & IDEs**
+**Tools & IDEs**
 <br>
 <br>
 <img src = "https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
@@ -64,7 +64,7 @@ See ya!
 <br>
 <br>
 
-**OTHERS**
+**Others**
 <br>
 <br>
 <img src = "https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
