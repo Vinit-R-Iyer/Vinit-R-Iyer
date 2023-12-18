@@ -9,6 +9,10 @@
   <img align="left" alt="Vinit's LinkedIN" width="85px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
 </a>
 
+<a href="mailto:ivinitr@gmail.com" rel="nofollow">
+  <img align="left" alt="Vinit's Email" width="85px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+</a>
+
 <br>
 <br>
 
